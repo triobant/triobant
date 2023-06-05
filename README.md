@@ -1,6 +1,6 @@
 Hello, my name is triobant.
 
-<!--[![Triobant's GitHub stats](https://github-readme-stats.vercel.app/api?username=triobant&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Triobant's GitHub stats](https://github-readme-stats.vercel.app/api?username=triobant&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="badges">
